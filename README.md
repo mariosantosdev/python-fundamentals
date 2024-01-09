@@ -1,4 +1,4 @@
-# Python Fundamentals
+# Simple Contact List
 
 This project was create to study about of simple Python Fundamentals. It's a contact list to save, edit, delete and favorite contacts.
 
